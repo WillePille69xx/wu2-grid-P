@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+.wrapper {
+  max-width: 940px;
+  margin: 0 auto;
+}
+
+.wrapper > div {
+    border: 2px;
+    border-radius: 5px;
+    background-color: aquamarine;
+    padding: 5px;
+}
+
+.top-1 {
+    grid-
+}
